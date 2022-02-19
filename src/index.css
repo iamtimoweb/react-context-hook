@@ -1,0 +1,11 @@
+html {
+    height: -webkit-fill-available;
+}
+body {
+    font-family: "Corben-Regular", sans-serif;
+    background: #eee;
+    min-height: 75rem;
+    padding-top: 4.5rem;
+    min-height: 100vh;
+    min-height: -webkit-fill-available;
+}
